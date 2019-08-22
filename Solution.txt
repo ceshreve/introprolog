@@ -1,0 +1,1 @@
+Houses = [[red, dog, 'basketball hoop'], [blue, bunny, trampoline], [yellow, cat, pool], [pink, bird, scooter]]

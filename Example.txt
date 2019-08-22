@@ -1,0 +1,14 @@
+There is a neighborhood that has 4 houses that are different colors (red, blue, yellow and pink).
+The families that live in the houses each have a different type of  pet (cat, dog, bunny, bird).
+Each house has a different toy (a trampoline, a pool, a scooter, a basketball hoop).
+No two houses have the same pet or toy, each house has exactly one of each.
+
+Goal: find out which house has which pet and which toy.
+
+Clues:
+1. The bunny (who doesn’t live at the red or yellow house) doesn’t live at the house with the pool or the scooter.
+2. The red house (which doesn’t have the cat) has the basketball hoop.
+3. The pink house has the bird.
+4. The cat lives at the house with the pool.
+
+Query: solution(Houses).
